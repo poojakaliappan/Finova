@@ -1,0 +1,6 @@
+{
+  "name": "Finova",
+  "description": "Track Smart. Spend Better. Personal finance app featuring ₹ currency, quick expense logger, smart budget tips, receipt scanning, and category insights.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
